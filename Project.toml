@@ -1,0 +1,9 @@
+name = "MSGate"
+uuid = "4cf66160-a92b-47c7-ae72-4b1be2589d2a"
+authors = ["jackmcgrath "]
+version = "0.1.0"
+
+[deps]
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+QuantumOptics = "6e0679c1-51ea-5a7c-ac74-d61b76210b0c"
+QuantumOpticsBase = "4f57444f-1401-5e15-980d-4471b28d5678"
